@@ -1,11 +1,31 @@
-# 🛡️ Cyber-Workspace
+# 🛡️ Cyber-Workspace — OSINT & Pentest Tools Collection
 
-> The most advanced curated collection of OSINT, recon & pentest tooling — organized as ready-to-browse `.url` shortcuts, sorted by category, pricing tier, and use case.
+[![Stars](https://img.shields.io/github/stars/ZakariaBlase/Cyber-Workspace?style=flat-square&color=yellow)](https://github.com/ZakariaBlase/Cyber-Workspace/stargazers)
+[![Issues](https://img.shields.io/github/issues/ZakariaBlase/Cyber-Workspace?style=flat-square)](https://github.com/ZakariaBlase/Cyber-Workspace/issues)
+[![License](https://img.shields.io/badge/use-authorized%20security%20testing%20only-red?style=flat-square)](#%EF%B8%8F-legal)
+[![Tools](https://img.shields.io/badge/tools-2327-blue?style=flat-square)](#-stats-at-a-glance)
 
-**2327 tools** · **13 top-level categories** · **100% free to explore** — no install required to browse, just open a folder and click.
+> A curated **OSINT (Open-Source Intelligence) and pentest tools collection** — 2,327 ready-to-use shortcuts covering recon, OSINT, web app security, network scanning, forensics, password cracking, and more. Organized by category, pricing tier, and use case, browsable with zero install.
 
-⭐ **If this collection is useful to you, consider starring the repo** — it helps others discover it.
-💡 **Open to suggestions** — found a great tool that's missing, a broken link, or a better way to organize this? Open an issue or a PR, all contributions welcome.
+**🔎 Looking for an OSINT tools list, an OSINT resources collection, or a pentest tool directory?** This repo indexes them all in one structured, deduplicated place.
+
+⭐ **Star this repo** if it's useful — it helps other OSINT/pentest practitioners find it.
+💡 **Found a missing tool, a broken link, or a better way to organize this?** Issues and PRs are welcome — see [Contributing](#-contributing).
+
+---
+
+## 📑 Table of Contents
+
+- [Stats at a glance](#-stats-at-a-glance)
+- [Categories](#-categories)
+- [Inside 01-Recon-OSINT](#inside-01-recon-osint)
+- [Inside 02-Web-AppSec](#inside-02-web-appsec)
+- [Convention](#%EF%B8%8F-convention)
+- [Sources](#-sources)
+- [Contributing](#-contributing)
+- [Legal](#%EF%B8%8F-legal)
+- [Usage](#-usage)
+- [About me](#-about-me)
 
 ---
 
@@ -65,6 +85,13 @@ Every shortcut follows a strict naming/sorting scheme:
 ## 📚 Sources
 
 Curated and deduplicated from multiple OSINT/pentest tool collections, including [bst04/CyberSources](https://github.com/bst04/CyberSources), [osintcabal.org](https://osintcabal.org), [osintrack.com](https://osintrack.com), public GitHub awesome-lists, and OSINT Telegram channel exports (Cybdetective;OSINT Ressources) — all redistributed into this workspace's own category taxonomy and re-triaged by pricing tier.
+
+## 🙌 Contributing
+
+Contributions are welcome and easy:
+1. Open an **issue** for a broken link, a duplicate, or a missing tool.
+2. Or open a **PR** directly: drop a new `.url` shortcut (`[InternetShortcut]` / `URL=...`) into the matching category and tier folder.
+3. Keep the naming convention (`Online/` vs `GitHub/`, tier prefix) so the collection stays consistent.
 
 ## ⚖️ Legal
 
